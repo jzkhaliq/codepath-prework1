@@ -12,17 +12,27 @@ The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
 
 
 ## App Brainstorming (Step 4)
+
+Instagram -- reels, groupchats
+
+Clash of Clans -- clan wars, clan chat
+
+LinkedIn -- Posting, Connecting
+
+An improvement I would add to any of these 3 apps is adding a global chat. I believe the ability to talk to anyone is great (Clash of Clans used to have this but they removed it). It is a great way to build a community and get to know new people.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 struggled with the button activating, creating a change in the color of the background.
+
+## App Brainstorming
+
+
 
 ## License
 
